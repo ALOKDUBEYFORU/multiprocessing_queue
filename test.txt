@@ -1,0 +1,2 @@
+This is a test file used for doing the testing at the time of using difftool.
+I have installed and configured the file successfully. But I am in the testing phase of the same.
